@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaedaiki.benzine.tech/sitemap.xml
